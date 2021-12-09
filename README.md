@@ -23,7 +23,7 @@ Cred ui made in Flutter
 
 Android | iOS
 --- | ---
-![](https://user-images.githubusercontent.com/21007272/145377997-15869a99-a880-43fa-9c3b-e6f930d88feb.jpeg) | ![](https://user-images.githubusercontent.com/21007272/145378820-1333d05b-e07f-4216-9c82-09728cc6e529.png)
+![](https://user-images.githubusercontent.com/21007272/145377997-15869a99-a880-43fa-9c3b-e6f930d88feb.jpeg) | ![](https://user-images.githubusercontent.com/21007272/145380286-635ef62d-c5f1-4c86-a139-7c23414a8412.png)
 
 
 
