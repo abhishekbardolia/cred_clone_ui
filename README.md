@@ -19,6 +19,14 @@ Cred ui made in Flutter
 | Example Color | ![#1B1F22](https://via.placeholder.com/10/1B1F22?text=+) #1B1F22 |
 
 
+## Screenshots
+
+Android | iOS
+--- | ---
+![](https://user-images.githubusercontent.com/21007272/145377997-15869a99-a880-43fa-9c3b-e6f930d88feb.jpeg) | ![](https://user-images.githubusercontent.com/21007272/145378006-c2142100-3055-4099-b590-3966860eff7d.png)
+
+
+
 # Cred-ui(clone)
 
 Cred ui made in Flutter
